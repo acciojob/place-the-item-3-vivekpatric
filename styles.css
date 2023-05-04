@@ -4,6 +4,7 @@
 	display:flex;
 	column-gap:4px;
 	flex-wrap:wrap;
+	justify-content:space-evenly;
 }
 .box{
 	background:green;
