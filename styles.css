@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	column-gap:4px;
+	flex-wrap:wrap;
+}
+.box{
+	background:green;
+	width:100px;
+	height:100px;
+}
+.box1{
+	background:red;
+	width:100px;
+	height:100px;
+	
+}
+.box2{
+	background:blue;
+	width:100px;
+	height:100px;
+}
